@@ -12,3 +12,13 @@
     position: relative;
     top: 150px;
 }
+#cactus{
+    width: 50px;
+    height: 50px;
+    background-image: url(./cacts.png);
+    background-size: 50px 50px;
+    position: relative;
+    top: 100px;
+    left: 550px;
+    animation: cactusMov 1s infinite linear;
+}
